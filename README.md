@@ -6,4 +6,4 @@
 
 ## Don't use this
 
-Or do...I'm just a README.
+Or do...I'm just a README. Inspired by https://github.com/Manbeardo/lookup-odd
